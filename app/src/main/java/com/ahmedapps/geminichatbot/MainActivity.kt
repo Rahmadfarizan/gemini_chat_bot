@@ -93,7 +93,7 @@ class MainActivity : ComponentActivity() {
                                 Text(
                                     modifier = Modifier
                                         .align(Alignment.TopStart),
-                                    text = stringResource(id = R.string.app_name),
+                                    text = "Advokata",
                                     fontSize = 19.sp,
                                     color = MaterialTheme.colorScheme.onPrimary
                                 )
